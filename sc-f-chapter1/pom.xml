@@ -20,7 +20,7 @@
     <modules>
         <module>eureka-server</module>
         <module>service-hi</module>
-    <module>service-hello</module>
+    	<module>service-hello</module>
   </modules>
 
     <properties>
